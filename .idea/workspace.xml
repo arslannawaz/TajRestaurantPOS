@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c66e374-b89b-4917-90b8-9f63f549947e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1WMFDuHf7bfgxv049BLMXMsgQFY" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/My Work/HAS-Coderz/Themes/listings-html-template-20191021T172914Z-001/listings-html-template/HTML" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\restaurantpos\includes" />
+      <recent name="C:\xampp\htdocs\BusTicket\admin\includes" />
+      <recent name="C:\xampp\htdocs\BusTicket\admin" />
+      <recent name="C:\xampp\htdocs\BusTicket\includes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\BusTicket\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c66e374-b89b-4917-90b8-9f63f549947e" name="Default Changelist" comment="" />
+      <created>1571847479257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571847479257</updated>
+      <workItem from="1571847486801" duration="6026000" />
+      <workItem from="1571856996741" duration="1719000" />
+      <workItem from="1571916575650" duration="2517000" />
+      <workItem from="1571936900392" duration="1893000" />
+      <workItem from="1572166890847" duration="599000" />
+      <workItem from="1572168794802" duration="50000" />
+      <workItem from="1578951443436" duration="2407000" />
+      <workItem from="1578997700564" duration="128000" />
+      <workItem from="1579037817086" duration="1754000" />
+      <workItem from="1580064716226" duration="18510000" />
+      <workItem from="1580130458270" duration="28000" />
+      <workItem from="1580336245440" duration="7238000" />
+      <workItem from="1580385536112" duration="5634000" />
+      <workItem from="1581367792461" duration="653000" />
+      <workItem from="1589744175244" duration="620000" />
+      <workItem from="1589988380523" duration="3257000" />
+      <workItem from="1590086824563" duration="588000" />
+      <workItem from="1590675181977" duration="1141000" />
+      <workItem from="1591984389803" duration="1254000" />
+      <workItem from="1598006175519" duration="16283000" />
+      <workItem from="1598934937236" duration="1693000" />
+      <workItem from="1599219766205" duration="872000" />
+      <workItem from="1599594814465" duration="9423000" />
+      <workItem from="1599634329835" duration="23849000" />
+      <workItem from="1599673091651" duration="3843000" />
+      <workItem from="1601819634663" duration="7674000" />
+      <workItem from="1601919857642" duration="232000" />
+      <workItem from="1601969659516" duration="9757000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
